@@ -1,3 +1,6 @@
 farine 
 sucre
 beure
+sel
+poivre
+chocolat

@@ -1,2 +1,5 @@
 sorgho
 sucre
+poulet
+frite
+mayo
